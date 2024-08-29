@@ -29,17 +29,17 @@ https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d/a
 This is the percentage data that i found after creating a Target column based on the injury occured during the crash.
 
 
-INJURY_CLASSIFICATION       Percentage Data
+       INJURY_CLASSIFICATION       Percentage Data
 
-NO INDICATION OF INJURY     90.7468%
+       NO INDICATION OF INJURY     90.7468%
 
-NONINCAPACITATING INJURY     5.1994%
+       NONINCAPACITATING INJURY     5.1994%
 
-REPORTED, NOT EVIDENT        3.0347%
+       REPORTED, NOT EVIDENT        3.0347%
 
-INCAPACITATING INJURY        0.9605%
+       INCAPACITATING INJURY        0.9605%
 
-FATAL                        0.0586%
+       FATAL                        0.0586%
 
 
 
