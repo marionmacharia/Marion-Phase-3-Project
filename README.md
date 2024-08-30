@@ -1,8 +1,6 @@
 # Predicting Customer Churn at Syriatel
 #### A machine learning project analyzing data from Syriatel to build a model that predicts from various features whether a customer would stick or churn.
-#### By [Collin Owino](https://github.com/Collin9726)
 
-### [Presentation Slides](https://docs.google.com/presentation/d/1QGBBiOypnkWMqDr_5NoNe7-nTs7kkcNRxPJwgoYJq-4/edit?usp=sharing)
 
 
 ## Description
@@ -69,9 +67,5 @@ To contribute to this project follow these easy steps:
 - Add the changes and commit them (git commit -am "Improve App")
 - Push to the branch (git push origin improve-app)
 - Create a Pull request
-
-## Support and contact details
-For any queries, issues, ideas or concerns contact [Collin Owino](owino.collin@gmail.com). Your feedback is highly appreciated.
-### [License](LICENSE)
-MIT license
-Copyright (c) 2024 **Collin Owino**
+final
+final
