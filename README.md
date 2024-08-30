@@ -1,5 +1,5 @@
 # Predicting Customer Churn at Syriatel
-
+![alt text](image-1.png)
 
 
 ## Business understanding
@@ -48,3 +48,4 @@ The final model generated following an iterative approach of trying to improve p
 
 
 RECOMMENDATIONS
+Conclusion
