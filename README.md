@@ -37,10 +37,7 @@ We built a basic Logistic Regression model using the liblinear solver. This gave
 #### Final model
 We selected the final model as the one that performed best, i.e. the tuned Decision Tree classifier which had a test AUC of 0.86 and an accuracy score of 0.941.
 
-##### Confusion matrix
 
-
-##### ROC curve using test data
 
 
 ## Evaluation
@@ -48,4 +45,4 @@ The final model generated following an iterative approach of trying to improve p
 
 
 RECOMMENDATIONS
-Conclusion
+Conclusions
