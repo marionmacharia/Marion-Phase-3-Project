@@ -1,6 +1,6 @@
 # SYRIATEL CUSTOMER CHURN
 
-![alt text](image-1.png)
+![Image of cell tower](Cell-Tower.jpg)
 
 
 ## Business understanding
