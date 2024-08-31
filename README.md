@@ -1,4 +1,5 @@
-# Predicting Customer Churn at Syriatel
+# SYRIATEL CUSTOMER CHURN
+
 ![alt text](image-1.png)
 
 
