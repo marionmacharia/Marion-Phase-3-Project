@@ -40,10 +40,11 @@ These models split the data into subsets based on feature values, leading to a t
 We had train and test AUC scores of 0.79 and 0.81 respectively. 
 We tuned the model to try improve its performance by comparing  the results of using different regularization levels and found an optimal C reqularization value of 10.
  In class imbalance , we applied Synthetic Minority Oversampling and  got an improvement of the test AUC score to 0.83.
-
-#### final model
+ 
+## final model
 The final model that performed best,was the tuned Decision Tree classifier which had a test AUC of 0.86 and an accuracy score of 0.941.
 
+Here is the presentation of the final model https://www.canva.com/design/DAGPOmwWMjk/jkxWr9zsSb-HaRG9aS1P5w/edit?utm_content=DAGPOmwWMjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
