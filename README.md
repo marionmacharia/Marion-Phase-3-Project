@@ -45,7 +45,7 @@ We tuned the model to try improve its performance by comparing  the results of u
 ## final model
 The final model that performed best,was the tuned Decision Tree classifier which had a test AUC of 0.86 and an accuracy score of 0.941.
 
-Here is the presentation of the final model https://www.canva.com/design/DAGPOmwWMjk/jkxWr9zsSb-HaRG9aS1P5w/edit?utm_content=DAGPOmwWMjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Here is the presentation of the final model: [Presentation slides](https://www.canva.com/design/DAGPOmwWMjk/jkxWr9zsSb-HaRG9aS1P5w/edit?utm_content=DAGPOmwWMjk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
